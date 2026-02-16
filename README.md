@@ -86,4 +86,3 @@ This will:
 ## 📘 Theory
 
 All theoretical explanations are available in the **Wiki**.
-```
